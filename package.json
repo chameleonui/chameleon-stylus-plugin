@@ -1,0 +1,26 @@
+{
+  "name": "chameleon-stylus-plugin",
+  "version": "0.0.1",
+  "description": "Component Stylus plugin with Chameleon customized setup",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ChameleonUI/chameleon-stylus-plugin.git"
+  },
+  "keywords": [
+    "chameleon",
+    "stylus",
+    "component"
+  ],
+  "author": "Tomas Kuba",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "dependencies": {
+    "batch": "~0.3.2",
+    "stylus": "~0.32.1",
+    "debug": "~0.7.2"
+  },
+}
