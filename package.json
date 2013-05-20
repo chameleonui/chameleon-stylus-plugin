@@ -1,6 +1,6 @@
 {
   "name": "chameleon-stylus-plugin",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Component Stylus plugin with Chameleon customized setup",
   "main": "index.js",
   "scripts": {
@@ -22,5 +22,5 @@
     "batch": "~0.3.2",
     "stylus": "~0.32.1",
     "debug": "~0.7.2"
-  },
+  }
 }
