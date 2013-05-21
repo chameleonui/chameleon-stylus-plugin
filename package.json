@@ -21,6 +21,9 @@
   "dependencies": {
     "batch": "~0.3.2",
     "stylus": "~0.32.1",
+    "lodash": "~1.2.1"
+  },
+  "devDependencies": {
     "debug": "~0.7.2"
   }
 }
