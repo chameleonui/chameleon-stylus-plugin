@@ -20,7 +20,7 @@
   "readmeFilename": "README.md",
   "dependencies": {
     "batch": "~0.3.2",
-    "stylus": "~0.32.1",
+    "stylus": "*",
     "lodash": "~1.2.1",
     "debug": "~0.7.2"
   },
