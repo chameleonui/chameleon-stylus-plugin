@@ -20,9 +20,9 @@
   "readmeFilename": "README.md",
   "dependencies": {
     "batch": "~0.3.2",
-    "stylus": "~0.33.0",
+    "debug": "~0.7.2",
     "lodash": "~1.2.1",
-    "debug": "~0.7.2"
+    "stylus": "~0"
   },
   "devDependencies": {}
 }
